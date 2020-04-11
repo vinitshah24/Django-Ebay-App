@@ -6,7 +6,9 @@ from django.contrib.auth.forms import UserCreationForm
 class UserRegisterForm(UserCreationForm):
     first_name = forms.CharField(required=True, max_length=50)
     last_name = forms.CharField(required=True, max_length=50)
-    email = forms.EmailField(required=True, widget=forms.TextInput(attrs={'placeholder': 'example@email.com'}))
+    email = forms.EmailField(required=True,
+                             widget=forms.TextInput(
+                                 attrs={'placeholder': 'example@email.com'}))
 
     class Meta:
         model = User
@@ -21,3 +23,13 @@ class UserRegisterForm(UserCreationForm):
         if commit:
             user.save()
         return user
+
+
+class UserUpdateForm(forms.ModelForm):
+    first_name = forms.CharField()
+    last_name = forms.CharField()
+    email = forms.EmailField()
+
+    class Meta:
+        model = User
+        fields = ['first_name', 'last_name', 'username', 'email']
