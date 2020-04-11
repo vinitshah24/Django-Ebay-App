@@ -6,7 +6,7 @@ import os
 api_url = ''
 api_key = ''
 env_file = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), '..\..', '.env')
+    os.path.join(os.path.dirname(__file__), '..\..\..', '.env')
 )
 load_dotenv(env_file)
 
