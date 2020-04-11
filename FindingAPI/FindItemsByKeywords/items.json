@@ -1,0 +1,2782 @@
+{
+  "findItemsByKeywordsResponse": [
+    {
+      "ack": [
+        "Success"
+      ],
+      "itemSearchURL": [
+        "https://www.ebay.com/sch/i.html?_nkw=Macbook&fscurrency=USD&_ddo=1&_ipg=20&_mPrRngCbx=1&_pgn=1&_udhi=500"
+      ],
+      "paginationOutput": [
+        {
+          "entriesPerPage": [
+            "20"
+          ],
+          "pageNumber": [
+            "1"
+          ],
+          "totalEntries": [
+            "1136374"
+          ],
+          "totalPages": [
+            "56819"
+          ]
+        }
+      ],
+      "searchResult": [
+        {
+          "@count": "20",
+          "item": [
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/pict/04040_0.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "true"
+              ],
+              "itemId": [
+                "333073810327"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-14T19:02:20.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2019-02-14T19:02:20.000Z"
+                  ],
+                  "watchCount": [
+                    "4778"
+                  ]
+                }
+              ],
+              "location": [
+                "San Jose,CA,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "951**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "239.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "239.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P3DT22H39M20S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "Many vinyl color to choose + 24/7 Support + Warranty"
+              ],
+              "title": [
+                "Apple Macbook 13\" Laptop / UPGRADED 8GB RAM 1TB HD / MAC OS 2017 / WARRANTY"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-Macbook-13-Laptop-UPGRADED-8GB-RAM-1TB-HD-MAC-OS-2017-WARRANTY-/333073810327?var=0"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Used"
+                  ],
+                  "conditionId": [
+                    "3000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs4.ebaystatic.com/m/mSqAYfHm8RmUDuHjP5V9kgw/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "124149248507"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-11T18:58:52.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "Auction"
+                  ],
+                  "startTime": [
+                    "2020-04-10T18:58:52.000Z"
+                  ],
+                  "watchCount": [
+                    "18"
+                  ]
+                }
+              ],
+              "location": [
+                "North Hollywood,CA,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "916**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "bidCount": [
+                    "45"
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "420.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "420.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P0DT22H35M52S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "2"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "30 Day Warranty! Battery Cycle is 450."
+              ],
+              "title": [
+                "MacBook Pro (Retina) Mid 2015 15\" 2.8 GHz i7 1TB SSD 16GB RAM "
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/MacBook-Pro-Retina-Mid-2015-15-2-8-GHz-i7-1TB-SSD-16GB-RAM-/124149248507"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Used"
+                  ],
+                  "conditionId": [
+                    "3000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryPlusPictureURL": [
+                "https://galleryplus.ebayimg.com/ws/web/202661215955_1_82_1.jpg"
+              ],
+              "galleryURL": [
+                "https://thumbs4.ebaystatic.com/m/mt5HNjejVeIE402o6pnKOaQ/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "202661215955"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-24T15:58:33.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2019-04-24T15:58:33.000Z"
+                  ],
+                  "watchCount": [
+                    "6739"
+                  ]
+                }
+              ],
+              "location": [
+                "Huntley,IL,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "601**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "494.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "494.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P13DT19H35M33S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "3 YEAR WARRANTY + 24/7 SUPPORT + TOP PERFORMANCE + SALE"
+              ],
+              "title": [
+                "\u2746 Apple MacBook Pro 13 / 2.4GHz INTEL / 8GB RAM / 1TB / 3 YR WARRANTY OS-2017"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-MacBook-Pro-13-2-4GHz-INTEL-8GB-RAM-1TB-3-YR-WARRANTY-OS-2017-/202661215955"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Used"
+                  ],
+                  "conditionId": [
+                    "3000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs3.ebaystatic.com/m/mxjegzWmiRRKLS0Wf-BeZvw/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "402202041914"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-10T20:26:03.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "Auction"
+                  ],
+                  "startTime": [
+                    "2020-04-03T20:26:03.000Z"
+                  ],
+                  "watchCount": [
+                    "9"
+                  ]
+                }
+              ],
+              "location": [
+                "Jersey City,NJ,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "073**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "false"
+              ],
+              "sellingStatus": [
+                {
+                  "bidCount": [
+                    "4"
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "305.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "305.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P0DT0H3M3S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "title": [
+                "Apple MacBook Pro 15.4\"\" (256GB SSD, Intel Core i7 3rd Gen, 2.30GHz, 8 GB DDR3)"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-MacBook-Pro-15-4-256GB-SSD-Intel-Core-i7-3rd-Gen-2-30GHz-8-GB-DDR3-/402202041914"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Used"
+                  ],
+                  "conditionId": [
+                    "3000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs3.ebaystatic.com/m/m8pf8uqalXaYdMeW8-bT-Ug/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "124133283878"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-28T17:34:22.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2020-03-28T17:34:22.000Z"
+                  ],
+                  "watchCount": [
+                    "242"
+                  ]
+                }
+              ],
+              "location": [
+                "Minneapolis,MN,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "554**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "259.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "259.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P17DT21H11M22S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "false"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "title": [
+                "Apple MacBook Pro Laptop 13\" 2.26GHZ C2D 4GB RAM 250GB HD"
+              ],
+              "topRatedListing": [
+                "true"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-MacBook-Pro-Laptop-13-2-26GHZ-C2D-4GB-RAM-250GB-HD-/124133283878"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/pict/04040_0.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "true"
+              ],
+              "itemId": [
+                "283751879777"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-21T12:01:03.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2020-01-21T12:01:03.000Z"
+                  ],
+                  "watchCount": [
+                    "487"
+                  ]
+                }
+              ],
+              "location": [
+                "USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "601**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "269.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "269.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P10DT15H38M3S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "BUILT TO ORDER | CUSTOM BUILT MACBOOK PROS | WARRANTY"
+              ],
+              "title": [
+                "MACBOOK PRO 13 | RETINA | CORE i7 | 1TB SSD | 16GB | WARRANTY | OS-2017"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/MACBOOK-PRO-13-RETINA-CORE-i7-1TB-SSD-16GB-WARRANTY-OS-2017-/283751879777?var=0"
+              ]
+            },
+            {
+              "autoPay": [
+                "false"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Used"
+                  ],
+                  "conditionId": [
+                    "3000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs2.ebaystatic.com/m/mj7mcwPE6njWGmE58Bt3AWA/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "143576523525"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-14T17:49:11.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "Auction"
+                  ],
+                  "startTime": [
+                    "2020-04-09T17:49:11.000Z"
+                  ],
+                  "watchCount": [
+                    "18"
+                  ]
+                }
+              ],
+              "location": [
+                "Lisbon,MD,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "217**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "bidCount": [
+                    "5"
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "217.5"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "217.5"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P3DT21H26M11S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "title": [
+                "Macbook Air 2014 4gb i5 128gb"
+              ],
+              "topRatedListing": [
+                "true"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Macbook-Air-2014-4gb-i5-128gb-/143576523525"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs3.ebaystatic.com/m/m36Ijj2zFcTnYLporqlClDQ/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "253775642810"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-25T10:27:27.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2018-07-25T10:27:27.000Z"
+                  ],
+                  "watchCount": [
+                    "1093"
+                  ]
+                }
+              ],
+              "location": [
+                "USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "117**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "224.98"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "224.98"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P14DT14H4M27S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "title": [
+                "Apple MacBook White 13\" A1342 320GB HDD, 8GB Ram. OS X High Sierra 2017 & Office"
+              ],
+              "topRatedListing": [
+                "true"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-MacBook-White-13-A1342-320GB-HDD-8GB-Ram-OS-X-High-Sierra-2017-Office-/253775642810"
+              ]
+            },
+            {
+              "autoPay": [
+                "false"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Open box"
+                  ],
+                  "conditionId": [
+                    "1500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs2.ebaystatic.com/m/mu4pf6t-r9-TUrjExIQAV3Q/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "153893918757"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "true"
+                  ],
+                  "buyItNowPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "670.0"
+                    }
+                  ],
+                  "convertedBuyItNowPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "670.0"
+                    }
+                  ],
+                  "endTime": [
+                    "2020-04-13T20:10:41.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "AuctionWithBIN"
+                  ],
+                  "startTime": [
+                    "2020-04-10T20:10:41.000Z"
+                  ],
+                  "watchCount": [
+                    "1"
+                  ]
+                }
+              ],
+              "location": [
+                "Crown Point,IN,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "463**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "productId": [
+                {
+                  "@type": "ReferenceID",
+                  "__value__": "238226387"
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "bidCount": [
+                    "0"
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "480.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "480.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P2DT23H47M41S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "25.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Flat"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "FLAWLESS Lightly Used Apple Care til November 2020"
+              ],
+              "title": [
+                "Apple MacBook Air 13.3\" Laptop - MQD32LL/A (June, 2017, Silver)"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-MacBook-Air-13-3-Laptop-MQD32LL-A-June-2017-Silver-/153893918757"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/pict/04040_0.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "true"
+              ],
+              "itemId": [
+                "362956043411"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-26T23:40:12.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2020-03-26T23:40:12.000Z"
+                  ],
+                  "watchCount": [
+                    "156"
+                  ]
+                }
+              ],
+              "location": [
+                "Elgin,IL,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "601**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "269.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "269.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P16DT3H17M12S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "HIGH PERFORMANCE \u00a6 SUPPORT \u00a6 WARRANTY \u00a6 CERTIFIED"
+              ],
+              "title": [
+                "MACBOOK PRO 13 RETINA | CORE i7 | 1TB SSD | 16GB RAM | WARRANTY | OS-2016"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/MACBOOK-PRO-13-RETINA-CORE-i7-1TB-SSD-16GB-RAM-WARRANTY-OS-2016-/362956043411?var=0"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/pict/04040_0.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "true"
+              ],
+              "itemId": [
+                "184158384417"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-05-03T17:14:23.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2020-02-03T17:14:23.000Z"
+                  ],
+                  "watchCount": [
+                    "378"
+                  ]
+                }
+              ],
+              "location": [
+                "Saint Paul,MN,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "551**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "399.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "399.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P22DT20H51M23S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "CUSTOMIZE THE UNIT TO FIT YOUR NEEDS! WARRANTY INCLUDED"
+              ],
+              "title": [
+                "APPLE MACBOOK PRO 13\" | CORE I7 3.4GHZ | 16GB RAM | 1TB SSD | OS2018 | CUSTOMIZE"
+              ],
+              "topRatedListing": [
+                "true"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/APPLE-MACBOOK-PRO-13-CORE-I7-3-4GHZ-16GB-RAM-1TB-SSD-OS2018-CUSTOMIZE-/184158384417?var=0"
+              ]
+            },
+            {
+              "autoPay": [
+                "false"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Open box"
+                  ],
+                  "conditionId": [
+                    "1500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs3.ebaystatic.com/m/mIThwhCtmphNOv9n9rVY_4Q/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "333570838538"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-14T16:47:56.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "Auction"
+                  ],
+                  "startTime": [
+                    "2020-04-09T16:47:56.000Z"
+                  ],
+                  "watchCount": [
+                    "60"
+                  ]
+                }
+              ],
+              "location": [
+                "American Fork,UT,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "840**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "bidCount": [
+                    "38"
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "276.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "276.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P3DT20H24M56S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "false"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "14.99"
+                    }
+                  ],
+                  "shippingType": [
+                    "Flat"
+                  ]
+                }
+              ],
+              "title": [
+                "Recertified Apple Macbook Mid-2017 i5-7Y54 1.3GHz 8GB DDR3 512GB SSD -J5384"
+              ],
+              "topRatedListing": [
+                "true"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Recertified-Apple-Macbook-Mid-2017-i5-7Y54-1-3GHz-8GB-DDR3-512GB-SSD-J5384-/333570838538"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Manufacturer refurbished"
+                  ],
+                  "conditionId": [
+                    "2000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs3.ebaystatic.com/m/mfkOYXmE8L2PStYnduHBebQ/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "253349008982"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-05-05T19:34:56.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2018-01-05T19:34:56.000Z"
+                  ],
+                  "watchCount": [
+                    "1715"
+                  ]
+                }
+              ],
+              "location": [
+                "USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "117**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "449.99"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "449.99"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P24DT23H11M56S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "title": [
+                "Apple Silver MacBook Pro13\"  500GB HDD/ Intel i5/16GB RAM/MacOS High Sierra 2017"
+              ],
+              "topRatedListing": [
+                "true"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-Silver-MacBook-Pro13-500GB-HDD-Intel-i5-16GB-RAM-MacOS-High-Sierra-2017-/253349008982"
+              ]
+            },
+            {
+              "autoPay": [
+                "false"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Used"
+                  ],
+                  "conditionId": [
+                    "3000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs4.ebaystatic.com/m/m8O6kj69h8oBHnYPdmIBuww/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "223970883487"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-11T03:33:52.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "Auction"
+                  ],
+                  "startTime": [
+                    "2020-04-08T03:33:52.000Z"
+                  ],
+                  "watchCount": [
+                    "29"
+                  ]
+                }
+              ],
+              "location": [
+                "Waxhaw,NC,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "281**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "false"
+              ],
+              "sellingStatus": [
+                {
+                  "bidCount": [
+                    "45"
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "316.23"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "316.23"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P0DT7H10M52S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "title": [
+                "Macbook Lot (1 Air And 1 Pro)"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Macbook-Lot-1-Air-And-1-Pro-/223970883487"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/pict/04040_0.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "true"
+              ],
+              "itemId": [
+                "233504509348"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-23T20:22:19.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2020-02-23T20:22:19.000Z"
+                  ],
+                  "watchCount": [
+                    "608"
+                  ]
+                }
+              ],
+              "location": [
+                "Saint Paul,MN,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "551**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "449.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "449.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P12DT23H59M19S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "CUSTOMIZABLE - WARRANTY INCLUDED - READY 2 GO!"
+              ],
+              "title": [
+                "Apple MacBook Air 11 / 13 inch | CUSTOMIZE | CORE i7 | OS2018 | 3 YEAR WARRANTY!"
+              ],
+              "topRatedListing": [
+                "true"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-MacBook-Air-11-13-inch-CUSTOMIZE-CORE-i7-OS2018-3-YEAR-WARRANTY-/233504509348?var=0"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/pict/04040_0.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "true"
+              ],
+              "itemId": [
+                "223711618626"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-18T23:11:10.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2019-10-18T23:11:10.000Z"
+                  ],
+                  "watchCount": [
+                    "780"
+                  ]
+                }
+              ],
+              "location": [
+                "USA"
+              ],
+              "postalCode": [
+                "951**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "229.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "229.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P8DT2H48M10S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "1"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "6 3D Carbon Fiber color to choose- 180 Days Warranty"
+              ],
+              "title": [
+                "Apple MacBook 13\" Laptop | UPGRADED 8GB RAM+1TB HD | MAC OS 2017 | WARRANTY "
+              ],
+              "topRatedListing": [
+                "true"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-MacBook-13-Laptop-UPGRADED-8GB-RAM-1TB-HD-MAC-OS-2017-WARRANTY-/223711618626?var=0"
+              ]
+            },
+            {
+              "autoPay": [
+                "false"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Used"
+                  ],
+                  "conditionId": [
+                    "3000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/m/moo7GxyAJ6ydJYnEGx9YA2g/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "402214289560"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-16T19:07:41.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "Auction"
+                  ],
+                  "startTime": [
+                    "2020-04-09T19:07:41.000Z"
+                  ],
+                  "watchCount": [
+                    "12"
+                  ]
+                }
+              ],
+              "location": [
+                "Gig Harbor,WA,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "983**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "false"
+              ],
+              "sellingStatus": [
+                {
+                  "bidCount": [
+                    "14"
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "275.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "275.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P5DT22H44M41S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "25.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Flat"
+                  ]
+                }
+              ],
+              "title": [
+                "MacBook Pro 15-Inch \"Core i7\" 2.3 Mid-2012\t2.3 GHz Core i7 (I7-3615QM)"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/MacBook-Pro-15-Inch-Core-i7-2-3-Mid-2012-2-3-GHz-Core-i7-I7-3615QM-/402214289560"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Used"
+                  ],
+                  "conditionId": [
+                    "3000"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/pict/04040_0.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "true"
+              ],
+              "itemId": [
+                "202715629667"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-22T17:06:52.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2019-06-22T17:06:52.000Z"
+                  ],
+                  "watchCount": [
+                    "1620"
+                  ]
+                }
+              ],
+              "location": [
+                "Huntley,IL,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "601**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "434.3"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "434.3"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P11DT20H43M52S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "MAX SPECS\ud83e\udd29 WARRANTY \ud83e\udd29 FULLY LOADED \ud83e\udd29 24/7 SUPPORT \ud83e\udd29"
+              ],
+              "title": [
+                "Apple MacBook Pro 15\" Quad-Core i7 Turbo - Up to 2TB SSD H & 16GB RAM"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/Apple-MacBook-Pro-15-Quad-Core-i7-Turbo-Up-2TB-SSD-H-16GB-RAM-/202715629667?var=0"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs2.ebaystatic.com/m/m3EselD-8RL8pduTFB3yv_g/140.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "false"
+              ],
+              "itemId": [
+                "362966815561"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "true"
+                  ],
+                  "buyItNowPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "500.0"
+                    }
+                  ],
+                  "convertedBuyItNowPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "500.0"
+                    }
+                  ],
+                  "endTime": [
+                    "2020-04-20T13:00:01.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "AuctionWithBIN"
+                  ],
+                  "startTime": [
+                    "2020-04-10T13:00:01.000Z"
+                  ],
+                  "watchCount": [
+                    "3"
+                  ]
+                }
+              ],
+              "location": [
+                "USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "069**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "false"
+              ],
+              "sellingStatus": [
+                {
+                  "bidCount": [
+                    "0"
+                  ],
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "300.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "300.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P9DT16H37M1S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingType": [
+                    "Calculated"
+                  ]
+                }
+              ],
+              "title": [
+                "MacBook Air Silver (13-inch, 1.8GHz Intel Core i5, Mid 2017) - MQD42LL/A\u00a0"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/MacBook-Air-Silver-13-inch-1-8GHz-Intel-Core-i5-Mid-2017-MQD42LL-A-/362966815561"
+              ]
+            },
+            {
+              "autoPay": [
+                "true"
+              ],
+              "condition": [
+                {
+                  "conditionDisplayName": [
+                    "Seller refurbished"
+                  ],
+                  "conditionId": [
+                    "2500"
+                  ]
+                }
+              ],
+              "country": [
+                "US"
+              ],
+              "galleryURL": [
+                "https://thumbs1.ebaystatic.com/pict/04040_0.jpg"
+              ],
+              "globalId": [
+                "EBAY-US"
+              ],
+              "isMultiVariationListing": [
+                "true"
+              ],
+              "itemId": [
+                "362954057395"
+              ],
+              "listingInfo": [
+                {
+                  "bestOfferEnabled": [
+                    "false"
+                  ],
+                  "buyItNowAvailable": [
+                    "false"
+                  ],
+                  "endTime": [
+                    "2020-04-25T03:00:54.000Z"
+                  ],
+                  "gift": [
+                    "false"
+                  ],
+                  "listingType": [
+                    "StoreInventory"
+                  ],
+                  "startTime": [
+                    "2020-03-25T03:00:54.000Z"
+                  ],
+                  "watchCount": [
+                    "114"
+                  ]
+                }
+              ],
+              "location": [
+                "Elgin,IL,USA"
+              ],
+              "paymentMethod": [
+                "PayPal"
+              ],
+              "postalCode": [
+                "601**"
+              ],
+              "primaryCategory": [
+                {
+                  "categoryId": [
+                    "111422"
+                  ],
+                  "categoryName": [
+                    "Apple Laptops"
+                  ]
+                }
+              ],
+              "returnsAccepted": [
+                "true"
+              ],
+              "sellingStatus": [
+                {
+                  "convertedCurrentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "465.0"
+                    }
+                  ],
+                  "currentPrice": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "465.0"
+                    }
+                  ],
+                  "sellingState": [
+                    "Active"
+                  ],
+                  "timeLeft": [
+                    "P14DT6H37M54S"
+                  ]
+                }
+              ],
+              "shippingInfo": [
+                {
+                  "expeditedShipping": [
+                    "true"
+                  ],
+                  "handlingTime": [
+                    "3"
+                  ],
+                  "oneDayShippingAvailable": [
+                    "false"
+                  ],
+                  "shipToLocations": [
+                    "Worldwide"
+                  ],
+                  "shippingServiceCost": [
+                    {
+                      "@currencyId": "USD",
+                      "__value__": "0.0"
+                    }
+                  ],
+                  "shippingType": [
+                    "Free"
+                  ]
+                }
+              ],
+              "subtitle": [
+                "READY TO USE OUT OF THE BOX - CUSTOM MAC - WARRANTY -"
+              ],
+              "title": [
+                "APPLE MACBOOK AIR 11\" / 13\" | CUSTOM | CORE i7 | MacOS 2019 | 3 YEAR WARRANTY"
+              ],
+              "topRatedListing": [
+                "false"
+              ],
+              "viewItemURL": [
+                "https://www.ebay.com/itm/APPLE-MACBOOK-AIR-11-13-CUSTOM-CORE-i7-MacOS-2019-3-YEAR-WARRANTY-/362954057395?var=0"
+              ]
+            }
+          ]
+        }
+      ],
+      "timestamp": [
+        "2020-04-10T20:23:00.611Z"
+      ],
+      "version": [
+        "1.13.0"
+      ]
+    }
+  ]
+}
