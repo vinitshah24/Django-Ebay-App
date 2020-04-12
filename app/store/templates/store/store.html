@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+{% load crispy_forms_tags %}
+
+{% block content %}
+<div class="md-form mb-3">
+    <form method="POST">
+        {% csrf_token %}
+        {{ form|crispy }}
+        <button type="submit" class="btn btn-outline-success mt-1">Search</button>
+    </form>
+</div>
+
+{% if product %}
+<div class="row">
+    {% for product in products %}
+    <div class="col-sm-6">
+        <div class="card my-3 shadow-sm p-3 bg-white rounded">
+            <h6 class="text-center mt-2 mb-3">{{ product|get_item:"title" }}</h6>
+            <a href="{{ product|get_item:"item_url" }}" target="_blank">
+                <img src="{{ product|get_item:'image_url' }}" class="center-block" height="150px" width="150px" alt="">
+            </a>
+            <div class="card-body">
+                <p><b>Item ID: </b>{{ product|get_item:"item_id" }}</p>
+                {% if product|get_item:"current_price_currency" == "USD" %}
+                <p><b>Current Selling Price: </b>${{ product|get_item:"current_price" }}</p>
+                {% else %}
+                <p><b>Current Selling Price: </b>{{ product|get_item:"current_price_currency" }}
+                    {{ product|get_item:"current_price" }}</p>
+                {% endif %}
+                <p><b>Selling Status: </b>{{ product|get_item:"selling_status" }}</p>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+{% endif %}
+{% endblock content %}
