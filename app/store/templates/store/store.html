@@ -6,28 +6,65 @@
     <form method="POST">
         {% csrf_token %}
         {{ form|crispy }}
-        <button type="submit" class="btn btn-outline-success mt-1">Search</button>
+        <button type="submit" class="btn btn-outline-secondary mt-1">Search</button>
     </form>
 </div>
+
+<form method="POST">
+    <div class="form-row">
+        <div class="form-group col-12">
+            <div class="input-group">
+                <input class="form-control py-2 border-right-0 border" type="search" name="id_exact"
+                    placeholder="Product ID" />
+                <span class="input-group-append">
+                    <div class="input-group-text bg-transparent">
+                        <i class="fa fa-search"></i>
+                    </div>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-2 col-lg-2">
+            <label for="viewCountMax">Products Count</label>
+            <input type="number" min=0 max=100 class="form-control" id="viewCountMax" name="view_count_max">
+        </div>
+        <div class="form-group col-md-2 col-lg-3">
+            <label for="publishDateMin">Auction Start Date</label>
+            <input type="date" class="form-control" id="publishDateMin" name="date_min">
+        </div>
+        <div class="form-group col-md-2 col-lg-3">
+            <label for="publishDateMax">Auction End Date</label>
+            <input type="date" class="form-control" id="publishDateMax" name="date_max">
+        </div>
+        <div class="form-group col-md-4 col-lg-4">
+            <label for="category">Category</label>
+            <select id="category" class="form-control" name="category">
+                <option selected>Choose...</option>
+                <option value="">Option</option>
+            </select>
+        </div>
+    </div>
+</form>
 
 {% if products %}
 <div class="row">
     {% for product in products %}
     <div class="col-sm-6">
-        <div class="card my-3 shadow-sm p-3 bg-white rounded">
+        <div class="card my-3 shadow-sm p-3 rounded">
             <h6 class="text-center mt-2 mb-3">{{ product|get_item:"title" }}</h6>
             <a href="{{ product|get_item:"item_url" }}" target="_blank">
                 <img src="{{ product|get_item:'image_url' }}" class="center-block" height="150px" width="150px" alt="">
             </a>
             <div class="card-body">
-                <p><b>Item ID: </b>{{ product|get_item:"item_id" }}</p>
-                {% if product|get_item:"current_price_currency" == "USD" %}
-                <p><b>Current Selling Price: </b>${{ product|get_item:"current_price" }}</p>
-                {% else %}
-                <p><b>Current Selling Price: </b>{{ product|get_item:"current_price_currency" }}
-                    {{ product|get_item:"current_price" }}</p>
-                {% endif %}
-                <p><b>Selling Status: </b>{{ product|get_item:"selling_status" }}</p>
+                <p><b>Item ID: </b>{{ product|get_item:"item_id" }}<br>
+                    {% if product|get_item:"current_price_currency" == "USD" %}
+                    <b>Current Selling Price: </b>${{ product|get_item:"current_price" }}<br>
+                    {% else %}
+                    <b>Current Selling Price: </b>{{ product|get_item:"current_price_currency" }}
+                    {{ product|get_item:"current_price" }}<br>
+                    {% endif %}
+                    <b>Selling Status: </b>{{ product|get_item:"selling_status" }}
             </div>
         </div>
     </div>
