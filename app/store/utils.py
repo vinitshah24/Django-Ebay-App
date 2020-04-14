@@ -30,6 +30,8 @@ def api_query(query):
         response = requests.get(url=api_url, params=metadata)
         if response.status_code == 200:
             json_data = response.json()
+            if json_data['findItemsByKeywordsResponse'][0]['errorMessage']:
+                return None
             return json_data
         else:
             print("Request Failed!")
@@ -43,6 +45,9 @@ def api_query(query):
 'itemFilter.value': '500',
 'itemFilter.paramName': 'Currency',
 'itemFilter.paramValue': 'USD',
+'paginationInput.entriesPerPage': '2'
+'productId.@type': 'ISBN'
+'productId': '1234567890'
 """
 
 
@@ -87,7 +92,16 @@ def get_data(json_response):
 
 
 # Main
-#raw_data = api_query('iphone')
-#products = get_data(raw_data)
-# for index in range(len(products)):
-#   print(products[index]['title'])
+"""
+raw_data = api_query('iphone')
+products = get_data(raw_data)
+for index in range(len(products)):
+    print(products[index]['title'])
+"""
+
+"""
+'itemFilter.name': 'MaxPrice',
+'itemFilter.value': '500',
+'itemFilter.paramName': 'Currency',
+'itemFilter.paramValue': 'USD',
+"""

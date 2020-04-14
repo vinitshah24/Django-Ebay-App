@@ -21,8 +21,13 @@ def store(request):
             print(category)
 
             raw_data = utils.api_query(search_query)
-            products = utils.get_data(raw_data)
-            context = {'products': products, 'form': form}
+            if raw_data is not None:
+                products = utils.get_data(raw_data)
+                if products:
+                    context = {'products': products, 'form': form}
+            else:
+                form = forms.SearchProducts()
+                context = {'form': form}
     else:
         form = forms.SearchProducts()
         context = {'form': form}
