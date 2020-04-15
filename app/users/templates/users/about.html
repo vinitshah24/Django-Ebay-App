@@ -1,15 +1,34 @@
 {% extends "base.html" %}
+{% load static %}
 {% block content %}
-<div class="jumbotron text-center">
-    <h1>About</h1>
-    <p>We are here to make shopping easier</p>
-    <form>
-        <div class="input-group">
-            <input type="email" class="form-control" size="50" placeholder="Email Address" required>
-            <div class="input-group-btn">
-                <button type="button" class="btn btn-danger">Subscribe</button>
+<legend class="border-bottom mb-4">About Us</legend>
+<div class="bg-white py-3">
+    <div class="container py-3">
+        <div class="row align-items-center mb-5">
+            <div class="col-lg-4 px-5 mx-auto">
+                <img src="{% static 'assets/about2.jpg' %}" alt="about" class="img-fluid mb-4 mb-lg-0">
+            </div>
+            <div class="col-lg-8 order-2 order-lg-1">
+                <h4 class="font-weight-light">Lorem ipsum dolor sit amet</h4>
+                <p class="font-italic text-muted mb-4">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </p>
             </div>
         </div>
-    </form>
+        <div class="row align-items-center">
+            <div class="col-lg-8">
+                <h4 class="font-weight-light">Lorem ipsum dolor sit amet</h4>
+                <p class="font-italic text-muted mb-4">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
+                    eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                </p>
+            </div>
+            <div class="col-lg-4 px-5 mx-auto">
+                <img src="{% static 'assets/about1.jpg' %}" alt="about" class="img-fluid mb-4 mb-lg-0">
+            </div>
+        </div>
+    </div>
 </div>
+
 {% endblock content %}

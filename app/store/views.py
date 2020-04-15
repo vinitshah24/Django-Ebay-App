@@ -10,17 +10,38 @@ def store(request):
         form = forms.SearchProducts(request.POST)
         if form.is_valid():
             search_query = form.cleaned_data.get('search_query')
-            product_id = form.cleaned_data.get('product_id')
             product_count = form.cleaned_data.get('product_count')
-            start_date = form.cleaned_data.get('start_date')
-            category = form.cleaned_data.get('category')
+            min_price = form.cleaned_data.get('min_price')
+            max_price = form.cleaned_data.get('max_price')
 
-            print(product_id)
-            print(str(product_count))
-            print(start_date)  # 2000-04-01
-            print(category)
+            if search_query is not None and search_query != '' \
+                    and product_count > 0 and min_price > 0 and max_price > 0:
+                raw_data = utils.api_query(query=search_query,
+                                           numberOfProducts=product_count,
+                                           minPrice=min_price,
+                                           maxPrice=max_price)
+            elif search_query is not None and search_query != ''\
+                    and min_price > 0 and max_price > 0:
+                raw_data = utils.api_query(query=search_query,
+                                           minPrice=min_price,
+                                           maxPrice=max_price)
+            elif search_query is not None and search_query != '' \
+                    and product_count > 0:
+                raw_data = utils.api_query(query=search_query,
+                                           numberOfProducts=product_count)
+            elif search_query is not None and search_query != '' \
+                    and min_price > 0:
+                raw_data = utils.api_call = api_query(query=search_query,
+                                                      minPrice=min_price)
+            elif search_query is not None and search_query != '' \
+                    and max_price > 0:
+                raw_data = utils.api_query(query=search_query,
+                                           maxPrice=max_price)
+            elif search_query is not None and search_query != '':
+                raw_data = utils.api_query(query=search_query)
+            else:
+                raw_data = None
 
-            raw_data = utils.api_query(search_query)
             if raw_data is not None:
                 products = utils.get_data(raw_data)
                 if products:
