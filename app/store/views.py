@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect
 from django.contrib.auth.decorators import login_required
+from django.contrib import messages
 from . import utils
 from . import forms
 
@@ -15,7 +16,7 @@ def store(request):
             max_price = form.cleaned_data.get('max_price')
 
             if search_query is not None and search_query != '' \
-                    and product_count > 0 and min_price > 0 and max_price > 0:
+                    and product_count > 1 and min_price > 0 and max_price > 0:
                 raw_data = utils.api_query(query=search_query,
                                            numberOfProducts=product_count,
                                            minPrice=min_price,
@@ -26,13 +27,13 @@ def store(request):
                                            minPrice=min_price,
                                            maxPrice=max_price)
             elif search_query is not None and search_query != '' \
-                    and product_count > 0:
+                    and product_count > 1:
                 raw_data = utils.api_query(query=search_query,
                                            numberOfProducts=product_count)
             elif search_query is not None and search_query != '' \
                     and min_price > 0:
-                raw_data = utils.api_call = api_query(query=search_query,
-                                                      minPrice=min_price)
+                raw_data = utils.api_call = utils.api_query(query=search_query,
+                                                            minPrice=min_price)
             elif search_query is not None and search_query != '' \
                     and max_price > 0:
                 raw_data = utils.api_query(query=search_query,
@@ -52,4 +53,15 @@ def store(request):
     else:
         form = forms.SearchProducts()
         context = {'form': form}
+    try:
+        if context is None:
+            form = forms.SearchProducts()
+            context = {'form': form}
+    except:
+        context = {}
+        messages.warning(request, f'Items not found!')
+        form = forms.SearchProducts()
+        if form:
+            context = {'form': form}
+        pass
     return render(request, 'store/store.html', context)
